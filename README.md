@@ -3,7 +3,7 @@
 ---
 
 This is a repository to manage my resumé for print.  
-My resumé may also be viewed [here](https://www.raemibux.dev/about/resume) in case you don't want to do that extra work of downloading this repo onto your local drive.
+My resumé may also be viewed [here](https://raemibux.dev/about/resume) in case you don't want to do that extra work of downloading this repo onto your local drive.
 
 ### Key Features
 
